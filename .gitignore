@@ -1,0 +1,8 @@
+hiring-master/node_modules/
+hiring-master/.DS_Store
+hiring-master/npm-debug.log
+hiring-master/poc.js
+hiring-master/.rpt2_cache/
+hiring-master/dist/
+hiring-master/.nyc_output/
+hiring-master/test/*.log.html
